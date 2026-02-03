@@ -4,8 +4,6 @@
 
 Perfect for quick checks in local networks and development environments.
 
----
-
 ## ⚙️ Features
 
 - 🔍 **IP & Port Scanner**  
@@ -16,6 +14,8 @@ Perfect for quick checks in local networks and development environments.
 
 - 🪶 **Lightweight & fast**  
   Optimized for speed with minimal system impact.
+
+
 
 ---
 
